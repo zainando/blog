@@ -7,11 +7,21 @@ fields:
   config:
     required: false
   label: Title
+- name: hero
+  type: text
+  config:
+    required: false
+  label: Header Image
+  hidden: false
 - name: excerpt
   type: text
   config:
     required: false
   label: Excerpt
+- name: authors
+  type: tag_list
+  default: []
+  label: Authors
 - name: date
   type: datetime
   label: Date
@@ -31,20 +41,5 @@ fields:
     min: 
     max: 
     step: 
-- name: hero_old
-  type: file
-  config:
-    maxSize: 250
-  label: Hero Image
-- name: authors
-  type: tag_list
-  default: []
-  label: Authors
-- name: hero
-  type: text
-  config:
-    required: false
-  label: Header Image
-  hidden: false
 pages:
 - content/post/test-post.md
