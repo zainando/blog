@@ -1,5 +1,5 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
+  heading: Un blog per chi si muove leggero, con uno zaino e un paio di sandali. 
   maxWidthPX: 652
 ---
