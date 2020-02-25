@@ -45,6 +45,6 @@ fields:
   config:
     required: false
   label: Header Image
-  hidden: true
+  hidden: false
 pages:
 - content/post/test-post.md
