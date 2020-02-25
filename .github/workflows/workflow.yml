@@ -19,8 +19,5 @@ jobs:
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
           branch: master 
-          # Use if your site requires a specific version of Hugo
-          # Append "extended_" to the begining to use Hugo Extended
           hugoVersion: extended_0.65.3
-          # Use if you want to pass some custom arguments to Hugo
           args: --gc --minify --cleanDestinationDir
