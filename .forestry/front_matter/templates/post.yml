@@ -31,7 +31,7 @@ fields:
     min: 
     max: 
     step: 
-- name: hero
+- name: hero_old
   type: file
   config:
     maxSize: 250
@@ -40,5 +40,11 @@ fields:
   type: tag_list
   default: []
   label: Authors
+- name: hero
+  type: text
+  config:
+    required: false
+  label: Header Image
+  hidden: true
 pages:
 - content/post/test-post.md
