@@ -1,4 +1,4 @@
-baseURL: "https://zainando.github.io/pub/"
+baseURL: "https://zainando.github.io/pub"
 languageCode: "en-us"
 title: "Zainando"
 pygmentsstyle: 'monokai'
