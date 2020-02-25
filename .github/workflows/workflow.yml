@@ -17,6 +17,6 @@ jobs:
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
           branch: master 
-          repo: github.com/zainando/pub
+          repo: zainando/pub
           hugoVersion: extended_0.65.3
           args: --gc --minify --cleanDestinationDir
