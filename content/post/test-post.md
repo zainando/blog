@@ -2,7 +2,8 @@
 authors = ["Brunetto Marco Ziosi"]
 date = 2020-02-24T23:00:00Z
 excerpt = "My first test on forestry"
-hero = ""
+hero = "https://photos.smugmug.com/SpaceTimePoints/Diplomatico-e-il-Collettivo-Ninco-Nanco-Argo16/i-78ShswB/0/a70cb847/X2/IMG_1231-X2.jpg"
+hero_old = ""
 timeToRead = 1
 title = "Test post"
 
