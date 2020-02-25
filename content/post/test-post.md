@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["brunetto-marco-ziosi"]
 date = 2020-02-24T23:00:00Z
 excerpt = "My first test on forestry"
 hero = ""
