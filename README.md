@@ -13,7 +13,7 @@ A port of [Narative](https://www.narative.co/)'s Gatsby theme [Novela](https://w
 ## Prerequisites
 
 - Hugo > 0.55.0
-
+ 
 ## Content Management
 
 ![Forestry user interface](images/novela-forestry.png)
