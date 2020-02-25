@@ -11,7 +11,7 @@ Here an image ![WTF](https://photos.smugmug.com/SpaceTimePoints/Foto-di-una-nott
 
 and here a slideshow
 
-<iframe src="https://photos.marcozeta.com/frame/slideshow?key=nt7zC5&autoStart=0&captions=0&navigation=1&playButton=0&randomize=0&speed=3&transition=fade&transitionSpeed=1" width="800" height="600" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://photos.marcozeta.com/frame/slideshow?key=nt7zC5&autoStart=0&captions=0&navigation=1&playButton=0&randomize=0&speed=3&transition=fade&transitionSpeed=1" width="100%" height="100%" frameborder="yes" scrolling="no"></iframe>
 
 but in the end, some code as well
 
